@@ -1,4 +1,3 @@
-MODULOS PARA ODOO
+REPOSITORIO PARA APRENDER GIT
 =================
-
-Este repositorio contiene modulos para odoo.
+Usaremos este repositorio para aprender git.
